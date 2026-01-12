@@ -54,3 +54,50 @@ El proyecto está desarrollado con **React + Vite**, utiliza **React Router** pa
 
 ## 📁 Estructura del proyecto
 
+
+---
+
+## 🚦 Rutas principales
+
+### Públicas
+- `/` → Inicio
+- `/cars` → Autos
+- `/cars/id` → Auto
+- `/motors` → Motores
+- `/motors/id` → Motor
+- `/login` → Login admin
+
+### Administrativas
+- `/admin` → Dashboard
+- `/admin/hero`
+- `/admin/cars`
+- `/admin/motors`
+- `/admin/services`
+- `/admin/testimonials`
+- `/admin/users`
+
+---
+
+## 📱 Responsive Design
+
+- Sidebar del dashboard se **oculta en móviles**
+- Navbar con botón hamburguesa
+- Tablas adaptadas con scroll horizontal
+- Cards y sliders ajustables a cualquier pantalla
+
+---
+
+## ⚙️ Instalación y ejecución
+
+```bash
+# Clonar repositorio
+git clone https://github.com/tu-usuario/finauto.git
+
+# Entrar al proyecto
+cd finauto
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en desarrollo
+npm run dev
