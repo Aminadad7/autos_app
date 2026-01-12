@@ -1,0 +1,6 @@
+.carousel{
+          background-image: url('images/hero2.jpg');
+          background-size: cover;
+          background-position: center;
+          min-height: 60vh;
+}
