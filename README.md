@@ -5,12 +5,12 @@ Finauto es una aplicación web moderna para la **gestión y visualización de au
 El proyecto está desarrollado con **React + Vite**, utiliza **React Router** para la navegación y **Bootstrap 5** para el diseño responsivo.
 
 ---
-![Portada](../auto_app/finauto/src/assets/images/portada.png)
+![Portada](images/portada.png)
 
-![Autos](../auto_app/finauto/src/assets/images/autos.png)
+![Autos](images/autos.png)
 
 
-![Motores](../auto_app/finauto/src/assets/images/motores.png)
+![Motores](images/motores.png)
 
 
 
